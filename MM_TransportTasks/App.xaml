@@ -1,0 +1,9 @@
+﻿<Application x:Class="MM_TransportTasks.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:MM_TransportTasks"
+             StartupUri="Views/TransportTaskWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
